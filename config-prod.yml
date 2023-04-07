@@ -1,3 +1,2 @@
-skyand:
-    uri: skyand.co.kr
-    port: 3000
+test:
+  name: This is prod!

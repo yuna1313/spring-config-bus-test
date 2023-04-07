@@ -1,3 +1,2 @@
-skyand:
-  uri: skyand.co.kr
-  port: 8080
+test:
+  name: This is dev!
